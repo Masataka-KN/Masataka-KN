@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Masataka-KN/Masataka-KN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Masataka Kano's Rrepository**
 
-Here are some ideas to get you started:
+welcome to my repository!
+Here  I share and organize projects related to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Neuroscience, Immunology, and Microbiome analysis
+🧪 Bioinformatics workflows using tools like QIIME2, HUMAnN2, Kraken2, and MetaBAT2
+🧬 Comparative metagenomic analysis of Parkinson’s disease and healthy controls
+🤖 Neuroscience × AI modeling and data-driven hypothesis generation
+📊 Data analysis and visualization in Python
+
+**Tools & Technologies**
+
+Programming: Python, Bash, R
+
+Bioinformatics: QIIME2, HUMAnN2, Picrust2, Kraken2, MetaBAT2, CONCOCT, etc.
+
+Machine Learning: scikit-learn, TensorFlow (planned)
+
+Visualization: matplotlib, seaborn, Plotly
+
+Environment: Ubuntu 22.04 (WSL2), Miniconda, Docker
+
